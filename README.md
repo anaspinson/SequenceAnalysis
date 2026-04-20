@@ -15,3 +15,4 @@ The workflow is designed to be flexible, supporting both:
 - De novo genome assembly when no reference is available
 
 ## Workflow Summary
+![Workflow Diagram](figures/Bacterial Transcriptome Analysis Workflow.jpeg)
